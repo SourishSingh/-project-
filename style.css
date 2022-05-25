@@ -1,0 +1,21 @@
+#container{
+    display: flex;
+    text-align: center;
+
+}
+#img1{
+    width: 50em;
+}
+#h{
+    width: 50em;
+}
+.l{
+    font-family: 'Shadows Into Light', cursive;
+}
+#m{
+    font-size: 100px;
+    font-family: 'Lobster', cursive;
+}
+#lk{
+    font-family: 'Francois One', cursive;
+}
